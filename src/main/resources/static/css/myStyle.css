@@ -1,0 +1,9 @@
+#wenzhangliebiao ul{
+    list-style-type: none;
+}
+
+#wenzhangliebiao li{
+    width: 50%;
+    float: left;
+}
+
